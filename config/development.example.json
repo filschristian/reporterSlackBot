@@ -1,0 +1,9 @@
+{
+  "slack": {
+    "fileUploadUrl": "https://slack.com/api/files.upload",
+    "reporterBot": {
+        "fileUploadChannel": "#channel",
+        "botToken": "your_bot_token"
+    }
+  }
+}
